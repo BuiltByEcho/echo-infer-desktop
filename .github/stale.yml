@@ -1,0 +1,11 @@
+daysUntilStale: 60
+daysUntilClose: 7
+exemptLabels:
+  - discussion
+  - security
+  - roadmap
+staleLabel: wontfix
+markComment: >
+  This issue has been marked stale because it has not had recent activity.
+  It will close automatically if no further activity occurs.
+closeComment: false
